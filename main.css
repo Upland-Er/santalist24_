@@ -1,0 +1,22 @@
+h1{ font-family: Arial, Helvetica, sans-serif;
+font-size: 50px;}
+
+body{ background-color: beige;
+color: black;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: left;
+}
+
+p{ font-size: 25px;}
+
+li{ font-size: 25px;}
+
+.yeahboi{ 
+    text-align: left;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.biglad{
+    font-size: 30px;
+}
